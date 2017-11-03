@@ -1,0 +1,18 @@
+﻿Build started 1/11/2017 9:43:48 AM.
+     1>Project "C:\Users\Jun\Documents\Visual Studio 2015\Projects\Lab 2 - COMINT [Solution]\Lab 2 - COMINT\Lab 2 - COMINT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Jun\Visual Studio\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp main.cpp
+         Source.cpp
+     1>Source.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Jun\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jun\Documents\Visual Studio 2015\Projects\Lab 2 - COMINT [Solution]\Debug\Lab 2 - COMINT.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Lab2COMINT.main.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Jun\Documents\Visual Studio 2015\Projects\Lab 2 - COMINT [Solution]\Debug\Lab 2 - COMINT.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\main.obj
+         Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Lab 2 - COMINT.vcxproj -> C:\Users\Jun\Documents\Visual Studio 2015\Projects\Lab 2 - COMINT [Solution]\Debug\Lab 2 - COMINT.exe
+     1>Done Building Project "C:\Users\Jun\Documents\Visual Studio 2015\Projects\Lab 2 - COMINT [Solution]\Lab 2 - COMINT\Lab 2 - COMINT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.71
